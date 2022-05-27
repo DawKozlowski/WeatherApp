@@ -6,9 +6,9 @@ Weather application using JavaFX to display current weather, rates and Wikipedia
 
 
 ## How to use
-1.Enter the country name
-2.Enter the city
-3.Enter the currency code
-4.Click on the button "submit"
+1. Enter the country name
+2. Enter the city
+3. Enter the currency code
+4. Click on the button "submit"
 
 
