@@ -5,8 +5,10 @@ Weather application using JavaFX to display current weather, rates and Wikipedia
 ![Zrzut ekranu 2022-04-18 155554](https://user-images.githubusercontent.com/99674392/163818614-3f10f344-6dc5-481b-9105-51d22c58cced.png)
 
 ## Features
-  Application uses JavaFX for graphical user interface
- 
+  - JavaFX used for graphical user interface
+  - API used from https://openweathermap.org/api and  https://www.nbp.pl/kursy/xml/a059z220325.xml service to get current weather and currency rates
+  - json-simple and json libraries used for mapping JSON text
+    
 
 
 ## How to use
@@ -14,5 +16,3 @@ Weather application using JavaFX to display current weather, rates and Wikipedia
 2. Enter the city
 3. Enter the currency code
 4. Click on the button "submit"
-
-
