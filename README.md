@@ -7,7 +7,7 @@ Weather application using JavaFX to display current weather, rates and Wikipedia
 ## Features
   - JavaFX used for graphical user interface
   - API used from https://openweathermap.org/api and  https://www.nbp.pl/kursy/xml/a059z220325.xml service to get current weather and currency rates
-  - json-simple and json libraries used for mapping JSON or XML text
+  - json-simple and json libraries used for mapping JSON and XML text
     
 
 
